@@ -26,17 +26,18 @@
 <h1>Grid Lines</h1>
 
 <div class="grid-container">
-  <div class="item1"><!-- TradingView Widget BEGIN -->
+ 
+  <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
-  <div id="tradingview_5ac5d"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/BTCUSDT/" rel="noopener" target="_blank"><span class="blue-text">BTCUSDT chart</span></a> by TradingView</div>
+  <div id="tradingview_2aafd"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/BINANCE-BTCUSDT/" rel="noopener" target="_blank"><span class="blue-text">BTCUSDT chart</span></a> by TradingView</div>
   <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
   <script type="text/javascript">
   new TradingView.widget(
   {
-  "width": 600,
-  "height": 300,
-  "symbol": "BTCUSDT",
+  "width": 980,
+  "height": 610,
+  "symbol": "BINANCE:BTCUSDT",
   "interval": "5",
   "timezone": "Asia/Bangkok",
   "theme": "Dark",
@@ -49,25 +50,25 @@
     "MASimple@tv-basicstudies",
     "StochasticRSI@tv-basicstudies"
   ],
-  "container_id": "tradingview_5ac5d"
+  "container_id": "tradingview_2aafd"
 }
   );
   </script>
 </div>
-<!-- TradingView Widget END --></div>
-
-
-  <div class="item2"><!-- TradingView Widget BEGIN -->
+<!-- TradingView Widget END -->
+  
+  
+  <div class="item3"><!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
-  <div id="tradingview_5ac5d"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/BTCUSDT/" rel="noopener" target="_blank"><span class="blue-text">BTCUSDT chart</span></a> by TradingView</div>
+  <div id="tradingview_2aafd"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/BINANCE-BTCUSDT/" rel="noopener" target="_blank"><span class="blue-text">BTCUSDT chart</span></a> by TradingView</div>
   <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
   <script type="text/javascript">
   new TradingView.widget(
   {
-  "width": 600,
-  "height": 300,
-  "symbol": "BTCUSDT",
+  "width": 980,
+  "height": 610,
+  "symbol": "BINANCE:BTCUSDT",
   "interval": "5",
   "timezone": "Asia/Bangkok",
   "theme": "Dark",
@@ -80,13 +81,12 @@
     "MASimple@tv-basicstudies",
     "StochasticRSI@tv-basicstudies"
   ],
-  "container_id": "tradingview_5ac5d"
+  "container_id": "tradingview_2aafd"
 }
   );
   </script>
 </div>
-<!-- TradingView Widget END --></div>
-  <div class="item3">3</div>  
+<!-- TradingView Widget END --></div>  
   <div class="item4">4</div>
   <div class="item5">5</div>
   <div class="item6">6</div>
