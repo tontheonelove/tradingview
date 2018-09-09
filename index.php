@@ -7,7 +7,41 @@
 
 <div class="grid">
   <section class="head">
-    <h1>4x1 Grid Landing Page Template</h1>		
+    
+     <!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div id="tradingview_5ac5d"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/BTCUSDT/" rel="noopener" target="_blank"><span class="blue-text">BTCUSDT chart</span></a> by TradingView</div>
+  <script type="text/javascript" src="https://s3.tradingview.com/tv.js"></script>
+  <script type="text/javascript">
+  new TradingView.widget(
+  {
+  "width": 980,
+  "height": 610,
+  "symbol": "BTCUSDT",
+  "interval": "5",
+  "timezone": "Asia/Bangkok",
+  "theme": "Dark",
+  "style": "8",
+  "locale": "en",
+  "toolbar_bg": "#f1f3f6",
+  "enable_publishing": false,
+  "allow_symbol_change": true,
+  "studies": [
+    "MASimple@tv-basicstudies",
+    "StochasticRSI@tv-basicstudies"
+  ],
+  "container_id": "tradingview_5ac5d"
+}
+  );
+  </script>
+</div>
+<!-- TradingView Widget END -->
+     
+     
+     
+     
+     
   </section>
 
   <section class="title">
