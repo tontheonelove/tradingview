@@ -42,30 +42,6 @@
 </div>
 <!-- TradingView Widget END -->
       
-
-      
-      
-      <!-- TradingView Widget BEGIN -->
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/FX-AUDUSD/technicals/" rel="noopener" target="_blank"><span class="blue-text">Technical Analysis for AUDUSD</span></a> by TradingView</div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
-  {
-  "showIntervalTabs": true,
-  "width": 425,
-  "colorTheme": "light",
-  "isTransparent": false,
-  "locale": "en",
-  "symbol": "FX:AUDUSD",
-  "interval": "1h",
-  "height": 450
-}
-  </script>
-</div>
-<!-- TradingView Widget END -->
-      
-         
-      
       
       <td><!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
@@ -85,6 +61,30 @@
   </script>
 </div>
 <!-- TradingView Widget END --></td>
+      
+      
+            <!-- TradingView Widget BEGIN -->
+<div class="tradingview-widget-container">
+  <div class="tradingview-widget-container__widget"></div>
+  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/symbols/FX-AUDUSD/technicals/" rel="noopener" target="_blank"><span class="blue-text">Technical Analysis for AUDUSD</span></a> by TradingView</div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-technical-analysis.js" async>
+  {
+  "showIntervalTabs": true,
+  "width": 425,
+  "colorTheme": "light",
+  "isTransparent": false,
+  "locale": "en",
+  "symbol": "FX:AUDUSD",
+  "interval": "1h",
+  "height": 450
+}
+  </script>
+</div>
+<!-- TradingView Widget END -->
+      
+          
+      
+      
     </tr>
     <tr>
       <td>February</td>
