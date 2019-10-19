@@ -20,9 +20,7 @@
   </script>
 </div>
 <!-- TradingView Widget END --></td>
-      
-      
-    
+         
 <!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div class="tradingview-widget-container__widget"></div>
@@ -41,8 +39,7 @@
   </script>
 </div>
 <!-- TradingView Widget END -->
-      
-      
+            
       <td><!-- TradingView Widget BEGIN -->
 <div class="tradingview-widget-container">
   <div class="tradingview-widget-container__widget"></div>
